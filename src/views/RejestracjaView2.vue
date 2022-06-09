@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Rejestracja from '@/components/Rejestracja.vue'
+import Rejestracja from '@/components/Rejestracja2.vue'
 
 export default {
   name: 'RejestracjaView',

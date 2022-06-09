@@ -22,6 +22,9 @@
         <li class="nav-item">
           <a class="nav-link"><router-link to="/rejestracja">Rejestracja online</router-link></a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link"><router-link to="/rejestracja2">Rejestracja online2</router-link></a>
+        </li>
       </ul>
     </div>
   </div>
